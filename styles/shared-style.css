@@ -1,0 +1,44 @@
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+      font-family: "Work Sans", sans-serif;
+      color:#131313;
+      
+}
+
+.content-width{
+  padding-inline: 50px;
+}
+
+.primary-color{
+    color:#131313;
+}
+
+.light-dark-2-color{
+    color:#424242;
+}
+
+.light-dark-3-color{
+    color:#727272;
+}
+
+.secondary-color{
+    color:#FF900E;
+}
+
+.common-btn{
+    background-color: #FF900E;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 8px;
+    color:white;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+@media screen and (max-width:576px){
+
+    .content-width{
+  padding-inline: 20px;
+}
+}
