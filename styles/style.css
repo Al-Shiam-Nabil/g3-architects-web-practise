@@ -69,6 +69,7 @@ padding-block: 50px;
 border-radius: 8px;
 }
 
+
 @media screen and (max-width:576px){
     nav{
         flex-direction: column;
@@ -90,4 +91,19 @@ border-radius: 8px;
 
 }
 
+@media screen and (min-width:576px) and (max-width:768px){
+  nav{
+        flex-direction: column;
+        gap:15px;
+    }
+
+    .nav-links-container{
+        flex-direction: column;
+        gap:15px;
+    }
+
+      .banner-content-container{
+        margin-top: 70px;
+    }
+}
 
