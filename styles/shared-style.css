@@ -38,7 +38,7 @@ body{
 
 @media screen and (max-width:576px){
 
-    .content-width{
-  padding-inline: 20px;
+    .content-padding{
+  padding-inline: 10px;
 }
 }

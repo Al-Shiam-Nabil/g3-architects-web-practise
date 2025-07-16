@@ -80,6 +80,10 @@ border-radius: 8px;
         gap:15px;
     }
 
+    .banner-content-container{
+        margin-top: 70px;
+    }
+
    .header-banner-title{
     font-size: 3rem;
    }
