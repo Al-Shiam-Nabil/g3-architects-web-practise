@@ -356,7 +356,7 @@ nav a {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   justify-items: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .logo-container img {
@@ -386,4 +386,15 @@ nav a {
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
   }
+}
+
+/*footer*/
+
+.footer-content {
+  font-size: 1.1rem;
+  padding: 20px;
+  background-color: #fff4e7;
+  text-align: center;
+  margin-block: 80px 50px;
+  border-radius: 8px;
 }
